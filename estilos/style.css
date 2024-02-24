@@ -11,7 +11,7 @@ html, body{
     width: 100vw;
 }
 body{
-    background-image: url(../imagens/fundo-madeira.jpg);
+    background-image: url(../imagens/fundodark.jpg);
 
     background-repeat: no-repeat top center;
     background-size:cover;
@@ -46,7 +46,7 @@ iframe#tela{
     height: 471px;
 }
 section#rede-social{
-    text-align: right;
+    text-align: left;
 
 }
 section#rede-social img{
